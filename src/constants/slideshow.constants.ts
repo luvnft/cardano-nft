@@ -13,7 +13,7 @@ import {
 
 export const SLIDE_SHOW_DATA = [
   {
-    title: 'Welcome to Crashr',
+    title: 'Welcome to LUV NFT ADA',
     desc: 'We\'ve recently enhanced our site for improved user experience and accessibility. Check out new additions like the Marketplace!',
     image: HOME_HEADER1_IMAGE,
     mobileImage: HOME_HEADER1_MOBILE_IMAGE,
@@ -21,14 +21,14 @@ export const SLIDE_SHOW_DATA = [
   },
   {
     title: 'Marketplace',
-    desc: 'Crashr’s Marketplace is now live! The all-in-one platform now has the feature functions to trade, sell and buy NFTs. ',
+    desc: 'LUV NFT ADA Marketplace is now live! The all-in-one platform now has the feature functions to trade, sell and buy NFTs. ',
     image: HOME_HEADER2_IMAGE,
     mobileImage: HOME_HEADER2_MOBILE_IMAGE,
     link: '/marketplace'
   },
   {
     title: 'Bombers',
-    desc: 'Our goal with Bombers is to create an epic community for the Crashr brand. We want to be more than just a platform for traders. We want a community built around the most primal values of internet culture. ',
+    desc: 'Our goal with Bombers is to create an tribe for the LUV NFT ADA brand. We want to be more than just a platform for traders. We want a community built around the most primal values of internet culture. ',
     image: HOME_HEADER3_IMAGE,
     mobileImage: HOME_HEADER3_MOBILE_IMAGE,
     link: 'https://bombers.crashr.io'
